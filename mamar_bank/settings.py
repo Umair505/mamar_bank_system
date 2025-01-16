@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-n)gw^mc@bd_9b%y$lvc()esb2ez6zywt1npsk0hmkbeiqrrj-m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mamar-bank-system.onrender.com']
+
 
 
 # Application definition

@@ -1,34 +1,63 @@
-# Mamar Bank
+# 🏦 Mamar Bank  
 
-Mamar Bank is a web-based banking management system that provides users with essential online banking functionalities, including account creation, deposits, withdrawals, loan management, and transaction history tracking.
+**A modern and user-friendly web-based banking management system.**  
+Mamar Bank provides essential online banking features like deposits, withdrawals, loan management, and transaction history tracking.  
 
-## Features
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### User
+---
 
-- **Account Management**: Create an account and update profile information.
-- **Transactions**:
-  - **Deposits and Withdrawals**: Perform deposits and withdrawals with confirmation messages displayed on the website.
-  - **Balance Inquiry**: Check available balance.
-  - **Transaction History**: View and filter transaction history by date.
-- **Loan Management**:
-  - **Loan Requests**: Request loans (up to three times) and receive confirmation emails upon admin approval.
+## 🌟 Features  
 
-### Admin
+### 👤 User  
 
-- **Account Management**: Create and delete user accounts.
-- **Transaction Oversight**: Delete transaction histories.
-- **Loan Approval**: Approve or reject loan requests, triggering email notifications to users.
+- **🔑 Account Management** – Create an account & update profile.  
+- **💰 Transactions**:  
+  - **Deposit & Withdraw** – Perform transactions with confirmation messages.  
+  - **📊 Balance Inquiry** – Check your available balance.  
+  - **📜 Transaction History** – View & filter past transactions by date.  
+- **🏦 Loan Management**:  
+  - **📌 Loan Requests** – Request loans (max 3 times).  
+  - **📩 Email Notifications** – Get notified upon admin approval.  
 
-## Live Demo
+### 🔐 Admin  
 
-Experience the application live at: [Mamar Bank](https://mamar-bank-system.onrender.com)
+- **🛠️ Account Management** – Create & delete user accounts.  
+- **📝 Transaction Oversight** – Delete transaction histories.  
+- **✔️ Loan Approval** – Approve/reject loan requests (users receive email updates).  
 
-## Installation and Setup
+---
 
-To run this project locally, follow these steps:
+## 🚀 Live Demo  
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/abdullahallnaim/mamar_bank.git
-   cd mamar_bank
+🔗 **[Try Mamar Bank Live](https://mamar-bank-system.onrender.com)** 🌍  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend:** Django, Python  
+- **Database:** MySQL  
+- **Authentication:** Django Auth System  
+
+---
+
+## 🤝 Contributing  
+
+Want to contribute? Feel free to **fork**, **submit issues**, or **create pull requests**!  
+
+🔗 **[GitHub Profile](https://github.com/Umair505)**  
+
+---
+
+## 📜 License  
+
+This project is licensed under **Moinul Islam Umair**.  
+
+---
+
+🎉 _Thank you for checking out **Mamar Bank**!_ 💳🏦🚀  
